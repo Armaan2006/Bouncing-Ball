@@ -1,2 +1,2 @@
-# Bouncing-Ball
-Bouncing the ball in my own world as a god
+# staticSquare
+A static square made using Matter.js physics engine
